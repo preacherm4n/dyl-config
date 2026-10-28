@@ -1,0 +1,1 @@
++exec autoexec.cfg -vulkan -particles 1 -softparticlesdefaultoff -particle_disable_diffuse -threads 8 +fps_max 0
